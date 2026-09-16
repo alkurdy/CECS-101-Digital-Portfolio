@@ -1,4 +1,4 @@
-# CECS-101 Digital Portfolio
+# Academic & Digital Portfolio
 
 ## About Me
 
@@ -6,7 +6,7 @@ Hi, I'm Aleksey Kurdyukov. I'm an infrastructure engineer with over 12 years of 
 
 ## About This Portfolio
 
-The purpose of this digital portfolio is to document my journey and coursework for **CECS-101: Design Your Degree, Design Your Career**. Visitors will find a collection of my major assignments, reflections, projects, and activities that highlight my academic progress and career planning throughout the semester.
+The purpose of this digital portfolio is to document my academic journey and coursework. Visitors will find a collection of my major assignments, reflections, projects, and activities that highlight my progress and career planning.
 
 ## My Academic and Career Goals
 
@@ -16,12 +16,12 @@ The purpose of this digital portfolio is to document my journey and coursework f
 
 ## Course Projects and Activities
 
-*Course assignments, major projects, and reflections will be linked here as the semester progresses.*
+*Course assignments, major projects, and reflections will be linked here as I progress through my studies.*
 
 ## Skills I Am Developing
 
-Through CECS-101 and my professional work, I am developing:
-- Career planning and degree path design
+Through my coursework and professional experience, I am developing:
+- Strategic career and academic planning
 - Systems thinking and technical architecture
 - Professional development and communication
 - Bridging technical capabilities with business needs
